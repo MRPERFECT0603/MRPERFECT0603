@@ -1,60 +1,36 @@
-# Hi there, I'm [Your Name] 👋
+<center>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=La+Belle+Aurore&size=30&pause=1000&color=40D9C8&center=true&vCenter=true&width=435&lines=Penetration+Tester;Blockchain+Developer;Full+Stack+Web+Developer" alt="Typing SVG" /></a>
+</center><br>
 
-Passionate Full Stack MERN Developer | Open Source Enthusiast | Problem Solver
 
-🌐 [Portfolio](https://yourportfolio.com) | 📧 [Email](mailto:your.email@example.com) | 🐦 [Twitter](https://twitter.com/yourtwitter) | 💼 [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
+# 💫 About Me:
+🔭 I'm currently Studying at **Jaypee Institute of Information Technology.**<br>
+👯 I'm looking to collaborate on **Interesting Cybersecurity and Blockchain Projects**.<br>
+📧 Contact me at [abhirambsn[at]gmail.com](mailto:abhirambsn@gmail.com)<br>
+🤝 I'm currently brushing up my Pentesting Skills<br>
+🌱 You can ask me about Programming, Cybersecurity and World History (xD)<br>
+⚡ *"Yoda was almost a monkey."* - A True Star Wars Fan<br>
 
-## About Me
 
-I am a highly motivated Full Stack Developer with a strong background in building web applications using the MERN stack. My passion for problem-solving and coding drives me to create efficient and scalable solutions.
 
-- 🔭 I’m currently working on [Your Current Project](https://github.com/yourusername/your-current-project)
-- 🌱 I’m currently learning [New Technology/Tool/Framework]
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with [Specific Challenge/Issue]
-- 💬 Ask me about anything related to Full Stack Development
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/7gBkEUsn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhiram.bsn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhallamudi-sai-narasimha-abhiram) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AbhiramBSN1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UC8_X1XmYj7Yw3xqLr-tCoJQ) 
 
-## Tech Stack
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=plastic&logo=apollo-graphql) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=plastic&logo=insomnia&logoColor=5849BE) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=material-ui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=plastic&logo=vagrant&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abhirambsn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abhirambsn&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhirambsn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)
-![Express.js](https://img.shields.io/badge/Backend-Express.js-yellow)
-![React.js](https://img.shields.io/badge/Frontend-React.js-blue)
-![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-Other technologies and tools that I frequently use:
+---
+[![](https://visitcount.itsvg.in/api?id=abhirambsn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
-![HTML](https://img.shields.io/badge/Language-HTML-orange)
-![CSS](https://img.shields.io/badge/Language-CSS-blue)
-![Git](https://img.shields.io/badge/Tool-Git-orange)
-![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue)
-![Docker](https://img.shields.io/badge/Tool-Docker-blue)
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abhirambsn) 
 
-## Projects
-
-### [Project 1](https://github.com/yourusername/project-1)
-Description of the project goes here...
-
-### [Project 2](https://github.com/yourusername/project-2)
-Description of the project goes here...
-
-### [Project 3](https://github.com/yourusername/project-3)
-Description of the project goes here...
-
-## GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=contribs,prs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-
-## Let's Connect
-
-Feel free to reach out to me for collaboration or if you have any questions.
-
-📧 Email: your.email@example.com
-
-🌐 Portfolio: [Your Portfolio](https://yourportfolio.com)
-
-🐦 Twitter: [Your Twitter](https://twitter.com/yourtwitter)
-
-💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourlinkedin)
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
