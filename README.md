@@ -4,12 +4,12 @@
 
 
 # 💫 About Me:
-🔭 I'm currently Studying at **Jaypee Institute of Information Technology.**<br>
-👯 I'm looking to collaborate on **Interesting Cybersecurity and Blockchain Projects**.<br>
-📧 Contact me at [abhirambsn[at]gmail.com](mailto:abhirambsn@gmail.com)<br>
-🤝 I'm currently brushing up my Pentesting Skills<br>
-🌱 You can ask me about Programming, Cybersecurity and World History (xD)<br>
-⚡ *"Yoda was almost a monkey."* - A True Star Wars Fan<br>
+🔭 I'm currently studying at **Jaypee Institute of Information Technology.**<br>
+👯 I'm looking to collaborate on **Full-Stack Development and Blockchain Projects**.<br>
+📧 Contact me at [vivekshaurya62[at]gmail.com](mailto:vivekshaurya62@gmail.com)<br>
+🤝 I'm currently working on Blockchain Technologies<br>
+🌱 You can ask me about Programming, Global Politics, and Self-Help<br>
+⚡ Love💙 & Peace✌️<br>
 
 
 
