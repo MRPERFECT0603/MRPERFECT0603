@@ -9,8 +9,7 @@
 🔭 I'm currently studying at **Jaypee Institute of Information Technology.**<br>
 👯 I'm looking to collaborate on **Full-Stack Development and DevOps Projects**.<br>
 📧 Contact me at [vivekshaurya62[at]gmail.com](mailto:vivekshaurya62@gmail.com)<br>
-🤝 I'm currently working on Blockchain Technologies<br>
-🌱 You can ask me about Programming, Global Politics, and Self-Help<br>
+🤝 I'm currently working on Machine Learning and GenAI<br>
 ⚡ Love💙 & Peace✌️<br>
 
 
