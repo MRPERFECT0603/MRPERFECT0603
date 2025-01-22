@@ -10,6 +10,7 @@
 👯 I'm looking to collaborate on **Full-Stack Development and DevOps Projects**.<br>
 📧 Contact me at [vivekshaurya62[at]gmail.com](mailto:vivekshaurya62@gmail.com)<br>
 🤝 I'm currently working on Machine Learning and GenAI<br>
+☕️ Buy Me a Coffee [buymeacoffee.com/vivekshaurya]
 ⚡ Love💙 & Peace✌️<br>
 
 
