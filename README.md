@@ -11,7 +11,7 @@
 🚀 Love building **production-ready systems**, not just demos  
 🤝 Open to collaborations on impactful engineering projects  
 ☕ Fueled by coffee, curiosity, and clean architectures  
-📬 **Reach me:** [vivekshaurya62@gmail.com](mailto:vivekshaurya62@gmail.com)
+📬 **Reach me:** [vivekshaurya62@gmail.com](mailto:vivekshaurya62@gmail.com)<br>
 ☕️ [Buy Me a Coffee](https://buymeacoffee.com/vivekshaurya)<br>
 ⚡ Love💙 & Peace✌️<br>
 
