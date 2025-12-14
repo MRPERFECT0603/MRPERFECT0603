@@ -21,11 +21,11 @@
 
 <a href="https://www.linkedin.com/in/vivek-shaurya-b10a64237/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/valour_sagacious/">
+</a><a href="https://medium.com/@vivek_shaurya">
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" style="margin: 0 10px;" />
+</a><a href="https://www.instagram.com/valour_sagacious/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://twitter.com/VivekShaurya5">
+</a><a href="https://twitter.com/VivekShaurya5">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
