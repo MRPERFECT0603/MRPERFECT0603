@@ -6,10 +6,12 @@
 
 
 # 💫 About Me:
-🔭 I'm currently studying at **Jaypee Institute of Information Technology.**<br>
-👯 I'm looking to collaborate on **Full-Stack Development and DevOps Projects**.<br>
-📧 Contact me at [vivekshaurya62[at]gmail.com](mailto:vivekshaurya62@gmail.com)<br>
-🤝 I'm currently working on Machine Learning and GenAI<br>
+🎓 Computer Science student at **Jaypee Institute of Information Technology**  
+💻 Passionate about **Full-Stack Development, DevOps & GenAI**  
+🚀 Love building **production-ready systems**, not just demos  
+🤝 Open to collaborations on impactful engineering projects  
+☕ Fueled by coffee, curiosity, and clean architectures  
+📬 **Reach me:** [vivekshaurya62@gmail.com](mailto:vivekshaurya62@gmail.com)
 ☕️ [Buy Me a Coffee](https://buymeacoffee.com/vivekshaurya)<br>
 ⚡ Love💙 & Peace✌️<br>
 
@@ -26,20 +28,24 @@
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=MRPERFECT0603&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" 
-    width="48%" 
+    width="420"
+    height="170"
   />
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=MRPERFECT0603&theme=tokyonight&hide_border=false" 
-    width="48%" 
+    width="420"
+    height="170"
   />
 </p>
 
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRPERFECT0603&theme=tokyonight&hide_border=false&layout=compact" 
-    width="40%" 
+    width="420"
+    height="170"
   />
 </p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
  
