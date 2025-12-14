@@ -22,15 +22,15 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/vivek-shaurya-b10a64237/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 0 10px;" />
 </a>
 
 <a href="https://www.instagram.com/valour__sagacious/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="margin: 0 10px;" />
 </a>
 
 <a href="https://twitter.com/VivekShaurya5">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" style="margin: 0 10px;" />
 </a>
 
 </p>
